@@ -939,7 +939,7 @@
 
 /* Define to 1 if you have the <ext/hash_map> header file. */
 #ifndef USED_FOR_TARGET
-/* #undef HAVE_EXT_HASH_MAP */
+#define HAVE_EXT_HASH_MAP 1
 #endif
 
 
